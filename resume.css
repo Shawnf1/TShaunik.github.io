@@ -1,0 +1,17 @@
+div.shading {background-color:lightgray;
+ padding:15px;
+ border-style:solid;
+ border-width:thin;
+ page-break-inside:avoid;}
+.center {text-align:center;}
+.break {page-break-after:always;}
+.nospacing {padding:0; 
+ margin:0;}
+.underline {text-decoration:underline;}
+body {text-align:justify;}
+li {font-weight:bold; 
+ display:inline-block;}
+.section {margin-bottom: 10px;}
+.block {display:block;}
+hr.single {border:0;border-bottom:1px;border-style: solid;border-color: #000000}
+hr.double {border:0;border-bottom:3px;border-style: double;border-color: #000000}
